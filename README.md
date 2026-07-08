@@ -84,7 +84,7 @@ The business wants to understand:
 ## 📸 Screenshots
 
 ### Full Dashboard
-![Credit Card Spend Behaviour Dashboard]()
+![Credit Card Spend Behaviour Dashboard](https://github.com/Saqibaminzargar/-Credit-Card-Spend-Behaviour-Analysis/blob/main/Credit%20Card%20Spend%20Behaviour%20Dashboard.png)
 
 ---
 
