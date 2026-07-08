@@ -1,6 +1,6 @@
 # Credit Card Spend Behaviour Analysis
 
-An end-to-end **Python** dashboard analyzing credit card customer spending behavior — segmenting customers, flagging risky accounts, and uncovering the patterns behind balances, purchases, and cash advances to support credit risk management.
+An end-to-end **Python** dashboard analyzing credit card customer spending behavior segmenting customers, flagging risky accounts, and uncovering the patterns behind balances, purchases, and cash advances to support credit risk management.
 
 ---
 
@@ -81,7 +81,7 @@ The business wants to understand:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Full Dashboard
 ![Credit Card Spend Behaviour Dashboard](https://github.com/Saqibaminzargar/-Credit-Card-Spend-Behaviour-Analysis/blob/main/Credit%20Card%20Spend%20Behaviour%20Dashboard.png)
