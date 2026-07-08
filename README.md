@@ -61,7 +61,7 @@ The business wants to understand:
 ## Key Insights
 
 - Cash Advance spending far exceeds One-off and Installment Purchases combined a major red flag for risk exposure
-- **"At Risk"** is the largest customer segment and also carries the highest concentration of risky accounts
+- **At Risk** is the largest customer segment and also carries the highest concentration of risky accounts
 - Balance and Cash Advance show a moderate positive correlation with Credit Limit (0.53 and 0.30), meaning higher limits often coincide with riskier borrowing behavior
 - Purchases and Payments are the most strongly correlated metrics (0.60), showing spending discipline aligns closely with repayment behavior
 - Purchases and Cash Advance are essentially uncorrelated (-0.05) — these are largely independent spending behaviors
